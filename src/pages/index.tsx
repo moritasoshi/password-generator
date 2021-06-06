@@ -1,7 +1,6 @@
 import * as React from 'react';
 import Head from 'next/head'
 import Image from 'next/image'
-// @ts-ignore
 import css from './index.module.scss'
 
 import Dialog from '../components/Dialog'
